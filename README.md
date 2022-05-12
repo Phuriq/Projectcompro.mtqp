@@ -1,4 +1,4 @@
-# Temp & Humid notification <img src="https://giphy.com/embed/1ziTSv3xAyBTaHICwh"  width="35">
+# Temp & Humid notification <img src=https://pa1.narvii.com/7608/9ef8bdeaa513398af8b27e2bd7bd1bf02870a881r1-444-480_hq.gif  width="35">
 > This __Temp & Humid notification__  project is part of Computer Programming Project, KMITL Semester 2/2021 1st Year
 ## วัตถุประสงค์
 > ป้องกันการปิดตู้เย็นไม่สนิทโดยใช้ Microcontroller ส่งสัญญาณเตือนให้ผู้ใช้งานได้รู้
