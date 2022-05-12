@@ -19,7 +19,7 @@
 > * Dht11
 > * สายไฟจั้มเปอร์
 ## โปสเตอร์
-> ![poster (download)](https://scontent-kut2-2.xx.fbcdn.net/v/t1.15752-9/279096590_970162667025800_5857552027907475966_n.jpg?stp=dst-jpg_p1080x2048&_nc_cat=103&ccb=1-6&_nc_sid=ae9488&_nc_eui2=AeElEnGTjXPKLM2xIhNRriywCSd-g7OEBgIJJ36Ds4QGAqHJPmSj2cMbAW38ELWRVPZbWc7XWa_uMrTitLEpih1X&_nc_ohc=TkLx-2CmRTEAX8RbAB_&tn=BSiyh6Im02iDlUIH&_nc_ht=scontent-kut2-2.xx&oh=03_AVKwsGpbU3WcLSmtBHMc0f4qz-i4dUveBosXHaXwqm4FNg&oe=62A4AC26)
+> ![poster (download)](https://media.discordapp.net/attachments/865671142626033694/974339698401116220/poster_compro.jpg?width=496&height=702)
 ## ชิ้นงาน
 > >  ![microcontroller (download)](https://media.discordapp.net/attachments/865671142626033694/974340163226456105/279963943_378952927534906_8536625025542008159_n.jpg?width=526&height=701)
 ## Code การส่งข้อความผ่านไลน์
