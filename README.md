@@ -1,3 +1,4 @@
+![](https://i.pinimg.com/originals/62/bd/cc/62bdcce8c60574d8dc39f343a21c587b.gif)
 # Temp & Humid notification <img src=https://pa1.narvii.com/7608/9ef8bdeaa513398af8b27e2bd7bd1bf02870a881r1-444-480_hq.gif  width="50">
 > This __Temp & Humid notification__  project is part of Computer Programming Project, KMITL Semester 2/2021 1st Year
 ## วัตถุประสงค์
