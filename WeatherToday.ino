@@ -35,8 +35,7 @@ void setup()
   ts = ts1 = millis();
 }
 
-void loop()
-{
+void loop(){
   delay(dht.getMinimumSamplingPeriod());
   float humidity = dht.getHumidity(); // ดึงค่าความชื้น
   float temperature = dht.getTemperature(); // ดึงค่าอุณหภูมิ
