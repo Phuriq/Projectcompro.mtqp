@@ -16,7 +16,7 @@
 > * Ardino Uno R3
 > * LCD
 ## ชิ้นงาน
-> * [Website](https://goofy-lalande-292e89.netlify.app/#home)
+> 
 ## วิดีโอนำเสนอชิ้นงาน
 > * [Youtube](https://www.youtube.com/watch?v=g0TveA3Xgcw)
 ## โปสเตอร์
