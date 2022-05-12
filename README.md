@@ -1,6 +1,5 @@
 # Temp & Humid notification 🌨🌥
 > This Refrigerator sensor project is part of Computer Programming Project, KMITL Semester 2/2021 1st Year
-## ที่มา
 ## วัตถุประสงค์
 > ป้องกันการปิดตู้เย็นไม่สนิทโดยใช้ Microcontroller ส่งสัญญาณเตือนให้ผู้ใช้งานได้รู้
 ## ข้อดี
