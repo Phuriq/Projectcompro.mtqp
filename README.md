@@ -19,7 +19,7 @@
 > * Dht11
 > * สายไฟจั้มเปอร์
 ## ชิ้นงาน
-> 
+> >  ![microcontroller (download)](https://scontent-kut2-1.xx.fbcdn.net/v/t1.15752-9/279963943_378952927534906_8536625025542008159_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=ae9488&_nc_ohc=50O81vs6mQgAX8DAQA_&_nc_ht=scontent-kut2-1.xx&oh=03_AVJYVdUe66SoytA8zIMy-K1juqMAkZ-jcCAtGAgZju6NHg&oe=62A2F48F)
 ## วิดีโอนำเสนอชิ้นงาน
 > * [Youtube](https://www.youtube.com/watch?v=g0TveA3Xgcw)
 ## โปสเตอร์
