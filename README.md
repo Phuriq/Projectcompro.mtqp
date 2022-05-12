@@ -2,9 +2,9 @@
 # Temp & Humid notification <img src=https://pa1.narvii.com/7608/9ef8bdeaa513398af8b27e2bd7bd1bf02870a881r1-444-480_hq.gif  width="50">
 > This __Temp & Humid notification__  project is part of Computer Programming Project, KMITL Semester 2/2021 1st Year
 ## วัตถุประสงค์
-> *1.เพื่อศึกษาและพัฒาการต่อวงจร Arduino และ NodeMCU
-> *2.เพื่อนำความรู้ภาษา C ที่ได้ศึกษาจากรายวิชา Computer Programming มาประยุกต์ใช้กับ IOT เพื่อส่งโปรเจคอาจารย์
-> *3.เพื่อวัดอุณหภูมิและความชื้น เพื่อใช้ประโยชน์ตามจุดประสงค์ในแต่ละวัน
+> * 1.เพื่อศึกษาและพัฒาการต่อวงจร Arduino และ NodeMCU
+> * 2.เพื่อนำความรู้ภาษา C ที่ได้ศึกษาจากรายวิชา Computer Programming มาประยุกต์ใช้กับ IOT เพื่อส่งโปรเจคอาจารย์
+> * 3.เพื่อวัดอุณหภูมิและความชื้น เพื่อใช้ประโยชน์ตามจุดประสงค์ในแต่ละวัน
 ## ข้อดี
 > * ประหยัดค่าไฟ
 > * เตือนความจำ
